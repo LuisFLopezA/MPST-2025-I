@@ -175,3 +175,7 @@ cython_debug/
 *.png
 
 TEMA-3/UCI HAR Dataset/
+
+.idea/inspectionProfiles/
+
+.idea/
